@@ -1,0 +1,53 @@
+1. User requirement specification is a document usually used in software engineering that depicts what user expects what the software is being developed to be able to do. When it comes to system requirements, they are very much detailed and complex descriptions of the software system's functions, services, and operational constraints.
+
+2. Functinal requirements define the system do's and don't's. Non-functinal requirements rely on how it is able to do, or how it should do it.
+
+3. Three types of non-functional requirements are: 
+Product requirements, Organizational requirements: General requirements derived from policies and procedures in the customer's organization. External requirements: which cover all requirements derived from factors external to the system and its development process.
+
+4. A document required, that is implemented by the software developers that defines the requirements.
+
+5.Shall refers to indicating a mandatory statement, and Should indicates a desirable but not such a essential statement.
+
+6. All requirements have the same format and are easier to read. The definition of form fields means that writers are less likely to forget to include personal information, and automated processing is also possible.
+
+7. Requirements elicitation and analysis, Requirements specification and Requirements Validation.
+
+8. Stakeholders don't know what they want. Stakeholders use their own language that requirements engineers may not understand. Stakeholder requirements may conflict. Political factors may influence the system requirements. The business environment may change during elicitation.
+
+9. A description of what's expected when the scenario starts.
+ A description of the normal flow of events.
+ A description of what can go wrong and how to handle it.
+ Information about concurrent activities.
+ A description of the system state when the scenario finishes.
+
+10. A use case identifies a typical type of interaction with a system and the users, involvement of the interaction.
+
+11. An observational technique where the user spends amounts of time observing work, and noting how all the participants carry out their tasks. Ethnography is useful in identifying essential cooperation in work progress. 
+
+12.  a. Stakeholders don't know what they really want.
+b. Stakeholders express requirements in their own terms.
+c. Different stakeholders may have conflicting requirements.
+d. Organizational and political factors may influence the system requirements.
+e. The requirements change during the analysis process. New stakeholders may emerge and the business environment change.
+
+
+13. Validity,Consistency, Completeness, Realism and the verifiability of the requirements should be assessed.
+
+14. Requirements reviews. Prototyping.Test-case generation.
+
+15.Ensuring the requirements can actually be implemented using the knowledge of existing technology, the budget, schedule, etc
+
+16.a. A description of the starting situation;
+b. A description of the normal flow of events;
+c. A description of what can go wrong;
+d. Information about other concurrent activities;
+e. A description of the state when the scenario finishes.
+
+17. The process of managing changing requirements during the requirements engineering process and system development.
+
+18. Requirements for a software system set out what the system should do and define constraints on it operation and implementation.
+
+19. True
+
+20. False

@@ -1,0 +1,31 @@
+1. The specification process, design and the implementation are all inter-leaved.
+The System is developed and delivered as a series of version to satisfy customers needs. When it comes to UI, they are made using AI development system thats supports rapid UI.
+
+2.For systems it can be small or medium sized software production. Custom made can also be developed in an organization where everything is in clear order to things from customer needs.
+
+3. 1. Customer Involvement
+2. People nor processing
+3. Incremental Delivery
+4. Embracing the change and accepting what it is.
+5. Being Simple or Maintaining simplicity.
+
+4. a. what type of system is being developed?
+   b. How is the expected system lifeline or status?
+   c. Is the delivery realistic?
+   d. How large is system to develop?
+
+
+5. Requirements expressed as scenes, pair-progamming and test-first developemtn
+
+6. When a system feature is identified, the tests of the code implementing that feature are written before the code. 
+Tests are automated and all tests are run when a new increment is added to the system
+
+7. Programmers may take short-cuts when developing tests so that the system tests are incomplete.
+ Some tests can be difficult to write incrementally. It is somewhat difficult to estimate the completeness of a test set.
+
+8. It supports the idea of common ownership and responsibility for the code. Serves as an informal code review process. 
+It helps support refactoring.
+
+9. Scrum Sprint: A short (3-4 weeks) planning unit in which work to be done is assessed, features are selected for development, and the software is implemented and delivered to system stakeholders.
+
+10. Project managers may be reluctant to accept the risks of a new approach. The established quality procedures in large companies may be incompatible with the informal approach to documentation in agile methods. The existing teams may not have the high level of skills to make use of agile methods. There may be cultural resistance if there is a long history of plan-driven development in the company.
